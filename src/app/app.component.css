@@ -1,0 +1,13 @@
+#meal-container {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
